@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Wahyu Isnaeni and I'm a Student, from Indonesia</p>
+<p align="left">My name is ... and I'm a ..., from ....</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning a good foundation for JavaScript<br>🎯 Goals: Web Developer<br>🎲 Fun fact: I like to play game (Counter-Strike 2 & DOTA2)</p>
+<p align="left">📚 I'm currently learning JavaScript<br>🎯 Goals: Web Developer<br>🎲 Fun fact: I like to play video games (Counter-Strike 2 & DOTA2)</p>
 
 ###
 
@@ -25,8 +25,40 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
+</div>
+
+###
+
+<h2 align="left">Social</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.facebook.com/wahyuisnaeni2002/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/kingwahyu.xyz/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="ways666" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+<h3 align="center">MISCELLANEOUS</h3>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=wahyu1337&theme=nord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wahyu1337&radius=16&theme=react&area=true&order=5&custom_title=Contribution&hide_title=false&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
