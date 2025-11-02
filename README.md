@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning a good foundation for JavaScript<br>🎯 Goals: Web Developer<br>🎲 Fun fact: I like to play game (Counter-Strike 2 & DOTA2</p>
+<p align="left">📚 I'm currently learning a good foundation for JavaScript<br>🎯 Goals: Web Developer<br>🎲 Fun fact: I like to play game (Counter-Strike 2 & DOTA2)</p>
 
 ###
 
