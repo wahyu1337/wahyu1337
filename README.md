@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning JavaScript<br>🎯 Goals: Web Developer<br>
+<p align="left">📚 I'm currently Programming Fundamental (JS) <br>🎯 Goals: Web Developer<br>
 
 ###
 
