@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently focus on programming fundamental (JS) <br>🎯 Goals: Web Developer<br>
+<p align="left">📚 I'm currently focus on programming fundamental (JS) <br>🎯 Goals: Web Developer / Software Enginer<br>
 
 ###
 
